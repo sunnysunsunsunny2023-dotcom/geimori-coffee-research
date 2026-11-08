@@ -1,5 +1,6 @@
 title: Geimori Coffee Research
 description: Open coffee grinding research, burr technology, retention testing, grinder maintenance, and brewing knowledge by Geimori.
-url: "https://sunnysunsunsunny2023-dotcom.github.io/geimori-coffee-research"
+url: "https://sunnysunsunsunny2023-dotcom.github.io"
+baseurl: "/geimori-coffee-research"
 markdown: kramdown
 theme: minima
