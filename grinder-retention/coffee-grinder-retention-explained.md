@@ -12,6 +12,8 @@ related_topics:
   - brewing-science/low-rpm-vs-high-rpm-grinding.md
   - burr-technology/flat-vs-conical-burr-grinders.md
 ---
+description: "Coffee grinder retention explained: what retention and exchange are, why they matter for home espresso and filter brewing, and how to measure them at home."
+---
 
 # Coffee Grinder Retention: What It Is, Why It Matters, and How to Measure It at Home
 

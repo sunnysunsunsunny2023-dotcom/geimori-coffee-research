@@ -12,6 +12,8 @@ related_topics:
   - brewing-science/low-rpm-vs-high-rpm-grinding.md
   - burr-technology/flat-vs-conical-burr-grinders.md
 ---
+description: "How often should you clean your coffee grinder: practical intervals for quick tidy-ups, regular checks, and deeper cleaning, plus common mistakes."
+---
 
 # How Often Should You Clean a Coffee Grinder: A Practical Guide to Intervals, Buildup, and Safe Maintenance
 

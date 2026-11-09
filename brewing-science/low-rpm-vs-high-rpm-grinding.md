@@ -11,6 +11,8 @@ related_topics:
   - grinder-retention/coffee-grinder-retention-explained.md
   - anti-static-technology/plasma-anti-static-technology.md
 ---
+description: "Low-RPM vs high-RPM coffee grinding: what motor speed does to grind uniformity, fines, and flavor, and how to interpret it."
+---
 
 # Low RPM vs High RPM Coffee Grinding: What Speed Does and Does Not Change
 

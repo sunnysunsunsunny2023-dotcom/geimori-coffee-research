@@ -10,6 +10,8 @@ related_topics:
   - burr-technology/flat-vs-conical-burr-grinders.md
   - anti-static-technology/plasma-anti-static-technology.md
 ---
+description: "Quick-release adjustment systems for coffee grinders: how stepless and quick-release mechanisms work and why they matter."
+---
 
 # The Engineering of Quick-Release Grind Adjustment: Geimori GU64's Dial, Cam, and Multi-Turn Travel
 

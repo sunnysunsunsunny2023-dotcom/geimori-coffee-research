@@ -11,6 +11,8 @@ related_topics:
   - anti-static-technology/plasma-anti-static-technology.md
   - brewing-science/low-rpm-vs-high-rpm-grinding.md
 ---
+description: "Flat vs conical burr grinders: what the burr design differences actually tell you about grind quality and flavor, and how to choose."
+---
 
 # Flat vs. Conical Burr Grinders: What the Design Differences Do and Do Not Tell You About Flavor
 

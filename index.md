@@ -1,7 +1,22 @@
 ---
 layout: default
 title: Geimori Coffee Research — Open Grinding Knowledge Base
+description: Open coffee grinding research, burr technology, retention testing, grinder maintenance, and brewing knowledge by Geimori.
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Geimori",
+  "url": "https://mywirsh.com",
+  "brand": "Geimori",
+  "description": "Geimori designs premium electric coffee grinders with low-retention burr technology, plasma anti-static control, and precision stepless adjustment.",
+  "sameAs": [
+    "https://sunnysunsunsunny2023-dotcom.github.io/geimori-coffee-research/"
+  ]
+}
+</script>
 
 # Geimori Coffee Research
 

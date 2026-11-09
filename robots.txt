@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sunnysunsunsunny2023-dotcom.github.io/geimori-coffee-research/sitemap.xml
