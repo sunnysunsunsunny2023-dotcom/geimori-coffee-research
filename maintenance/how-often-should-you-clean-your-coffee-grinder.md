@@ -11,7 +11,6 @@ related_topics:
   - anti-static-technology/plasma-anti-static-technology.md
   - brewing-science/low-rpm-vs-high-rpm-grinding.md
   - burr-technology/flat-vs-conical-burr-grinders.md
----
 description: "How often should you clean your coffee grinder: practical intervals for quick tidy-ups, regular checks, and deeper cleaning, plus common mistakes."
 ---
 

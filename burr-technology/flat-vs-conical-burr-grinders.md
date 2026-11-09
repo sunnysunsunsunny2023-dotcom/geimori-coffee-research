@@ -10,7 +10,6 @@ related_topics:
   - grinder-retention/coffee-grinder-retention-explained.md
   - anti-static-technology/plasma-anti-static-technology.md
   - brewing-science/low-rpm-vs-high-rpm-grinding.md
----
 description: "Flat vs conical burr grinders: what the burr design differences actually tell you about grind quality and flavor, and how to choose."
 ---
 

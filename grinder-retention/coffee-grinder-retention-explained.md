@@ -11,7 +11,6 @@ related_topics:
   - anti-static-technology/plasma-anti-static-technology.md
   - brewing-science/low-rpm-vs-high-rpm-grinding.md
   - burr-technology/flat-vs-conical-burr-grinders.md
----
 description: "Coffee grinder retention explained: what retention and exchange are, why they matter for home espresso and filter brewing, and how to measure them at home."
 ---
 

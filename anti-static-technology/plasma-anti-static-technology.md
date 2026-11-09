@@ -10,7 +10,6 @@ source_articles:
 related_topics:
   - grinder-retention/coffee-grinder-retention-explained.md
   - burr-technology/flat-vs-conical-burr-grinders.md
----
 description: "Plasma anti-static technology in coffee grinders: how ionization reduces static, clumping, and mess, and what it means for your workflow."
 ---
 

@@ -10,7 +10,6 @@ related_topics:
   - burr-technology/flat-vs-conical-burr-grinders.md
   - grinder-retention/coffee-grinder-retention-explained.md
   - anti-static-technology/plasma-anti-static-technology.md
----
 description: "Low-RPM vs high-RPM coffee grinding: what motor speed does to grind uniformity, fines, and flavor, and how to interpret it."
 ---
 

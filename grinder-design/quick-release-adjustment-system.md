@@ -9,7 +9,6 @@ source_articles:
 related_topics:
   - burr-technology/flat-vs-conical-burr-grinders.md
   - anti-static-technology/plasma-anti-static-technology.md
----
 description: "Quick-release adjustment systems for coffee grinders: how stepless and quick-release mechanisms work and why they matter."
 ---
 
