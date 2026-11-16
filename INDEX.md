@@ -36,6 +36,23 @@ Geimori Coffee Research — article index and source mapping.
 | --- | --- | --- | --- |
 | [brewing-science/low-rpm-vs-high-rpm-grinding.md](brewing-science/low-rpm-vs-high-rpm-grinding.md) | [Low-Speed vs High-Speed Coffee Grinders](https://mywirsh.com/blogs/buying-guide/how-rpm-can-influence-grind-quality-flow-and-flavor) | RPM and grind quality | Published (pending review) |
 
+## gifting-plan/
+
+
+
+| GitHub file | Purpose | Status |
+
+| --- | --- | --- |
+
+| [gifting-plan/geimori_gifting_a_hub_final_brief.md](gifting-plan/geimori_gifting_a_hub_final_brief.md) | A Hub final writing brief (2026-11-16) | Working |
+
+| [gifting-plan/geimori_gifting_chatgpt_briefs_2026-11-16.md](gifting-plan/geimori_gifting_chatgpt_briefs_2026-11-16.md) | ChatGPT writing task sheets | Working |
+
+| [gifting-plan/geimori_gifting_content_cluster_v2.md](gifting-plan/geimori_gifting_content_cluster_v2.md) | Content cluster v2.1 | Working |
+
+| [gifting-plan/geimori_gifting_priority_calendar_2026_2027.md](gifting-plan/geimori_gifting_priority_calendar_2026_2027.md) | Priority calendar | Working |
+
+
 ## maintenance/
 
 *(planned)*

@@ -19,6 +19,7 @@ This repository is a public technical knowledge base. It is **not** a mirror of 
 | [anti-static-technology/](anti-static-technology/) | Static, plasma ionization, RDT | ✅ 1 article |
 | [grinder-design/](grinder-design/) | Adjustment systems, quick-release mechanisms | ✅ 1 article |
 | [brewing-science/](brewing-science/) | RPM, grind size, extraction, brewing variables | ✅ 1 article |
+| [gifting-plan/](gifting-plan/) | Holiday gift guide content planning (working docs) | 📋 working |
 | maintenance/ | Cleaning, calibration, service | 📋 planned |
 | resources/ | External research, reading lists | 📋 planned |
 | assets/ | Images, diagrams (with license notes) | 📋 planned |
