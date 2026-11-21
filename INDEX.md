@@ -43,6 +43,7 @@ Geimori Coffee Research — article index and source mapping.
 | [entity-topical-map/Geimori_Entity_Topical_Map_v1_20261121.md](entity-topical-map/Geimori_Entity_Topical_Map_v1_20261121.md) | Entity Definition + 7-Universe Topical Map v1.0 (2026-11-21) | Working |
 | [entity-topical-map/Geimori_Brand_Consensus_Audit_v1_20261121.md](entity-topical-map/Geimori_Brand_Consensus_Audit_v1_20261121.md) | Brand Consensus external description audit v1.0 (2026-11-21) | Working |
 | [entity-topical-map/Geimori_Cleanup_Checklist_20261121.md](entity-topical-map/Geimori_Cleanup_Checklist_20261121.md) | Official site + Amazon cleanup checklist (2026-11-21) | Working |
+| [entity-topical-map/Geimori_Research_Collab_Changelog.md](entity-topical-map/Geimori_Research_Collab_Changelog.md) | Research ↔ ChatGPT collaboration changelog (read first) | Working |
 
 ## gifting-plan/
 
