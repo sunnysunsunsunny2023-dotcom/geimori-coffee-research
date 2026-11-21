@@ -41,6 +41,7 @@ Geimori Coffee Research — article index and source mapping.
 | GitHub file | Purpose | Status |
 | --- | --- | --- |
 | [entity-topical-map/Geimori_Entity_Topical_Map_v1_20261121.md](entity-topical-map/Geimori_Entity_Topical_Map_v1_20261121.md) | Entity Definition + 7-Universe Topical Map v1.0 (2026-11-21) | Working |
+| [entity-topical-map/Geimori_Brand_Consensus_Audit_v1_20261121.md](entity-topical-map/Geimori_Brand_Consensus_Audit_v1_20261121.md) | Brand Consensus external description audit v1.0 (2026-11-21) | Working |
 
 ## gifting-plan/
 
