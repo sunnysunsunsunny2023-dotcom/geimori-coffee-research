@@ -36,6 +36,12 @@ Geimori Coffee Research — article index and source mapping.
 | --- | --- | --- | --- |
 | [brewing-science/low-rpm-vs-high-rpm-grinding.md](brewing-science/low-rpm-vs-high-rpm-grinding.md) | [Low-Speed vs High-Speed Coffee Grinders](https://mywirsh.com/blogs/buying-guide/how-rpm-can-influence-grind-quality-flow-and-flavor) | RPM and grind quality | Published (pending review) |
 
+## entity-topical-map/
+
+| GitHub file | Purpose | Status |
+| --- | --- | --- |
+| [entity-topical-map/Geimori_Entity_Topical_Map_v1_20261121.md](entity-topical-map/Geimori_Entity_Topical_Map_v1_20261121.md) | Entity Definition + 7-Universe Topical Map v1.0 (2026-11-21) | Working |
+
 ## gifting-plan/
 
 
